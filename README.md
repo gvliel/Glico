@@ -1,4 +1,4 @@
-# Glico
+# Glico 
 
 ## Descrição
 
@@ -32,7 +32,7 @@ Os registros permanecem disponíveis enquanto o aplicativo está aberto. Ao ence
 
 ## Vídeo de demonstração
 
-O vídeo demonstrativo será disponibilizado em `demo/demo.mp4`.
+[Assistir ao vídeo demonstrativo](demo/demo.mp4)
 
 ## Como executar
 
